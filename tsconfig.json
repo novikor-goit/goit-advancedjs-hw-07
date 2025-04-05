@@ -7,7 +7,7 @@
     "emitDecoratorMetadata": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,
-    "lib": ["dom", "ES2021"],
+    "lib": ["dom", "ES2023"],
     "module": "es2020",
     "skipLibCheck": true,
     "strictNullChecks": true,
